@@ -1,11 +1,3 @@
-/*  This project is very simple and has few features. I avoided spaces in the inputs  in the most of the code. 
-    In general, I assumed that the user is behaving properly. Also, I wrote some hard-coded lines in the default constructor
-    of the AdminsManager and BooksManager classes. There are no IDs for each user in our system. Admins and customers can login
-    but sign up is available for customers only. No parallel sessions in this system. For admins, there are no edit, delete, or 
-    search books features. For customers, there are no feature for clearing a specific session from reading history or all sessions.
-    There are no files to store admins, customers, and books => when the program terminates, all data won't be saved!
-    Actually, I kept things simple and focused on the design as possible. Later, I may upgrade this system to provide more features.*/
-
 #include<iostream>
 #include <sstream>
 #include <vector>
