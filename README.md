@@ -11,7 +11,7 @@
 Welcome to the Online Book Reader Console Program! This simple console application allows users to read books and administrators to manage the book collection. While it may not have an extensive set of features, it is designed to provide a straightforward and user-friendly reading experience.
 
 ## System Design
-[UML Class Diagram](https://imgur.com/a/ihh5FOU)
+![UML Class Diagram](https://github.com/MohamedMostafa259/Online_Book_Reader_CLI/blob/main/FinalDigram.png)
 
 ## Program Features
 ### Admin Users
